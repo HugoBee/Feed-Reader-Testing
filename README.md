@@ -5,7 +5,7 @@ This project included a web-based application that reads RSS feeds four blogs on
 ## Running the Project
 
 1. Download compressed project folder or clone the repo
-2. Navigate to `index.html` on your local machine and open it by clicking [here](https://hugobee.github.io/Feed-Reader-Testing/).
+2. Navigate to `index.html` on your local machine and open it
 3. Scroll to the end of the page and you will see all the test passed in Jasmine
 4. The test are all located in `jasmine/spec/feedreader.js`.
 
